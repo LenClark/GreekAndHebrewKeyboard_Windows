@@ -1,0 +1,70 @@
+
+hataf segol
+hataf kamats
+hataf patah
+segol
+dagesh
+tsere
+hiriq
+sheva
+kamats
+patah
+kubuts
+holam
+Backspace 
+Tab
+shin dot
+sin dot
+qof
+resh
+aleph
+tet
+vav
+nun sofit
+mem sofit
+pe
+maqaf
+Generic accent - ole
+Forward delete
+Caps Lock
+shin/sin
+dalet
+gimel
+kaf
+ayin
+yod
+het
+lamed
+kaf sofit
+pe sofit
+
+
+Return/Enter
+Shift
+
+zayin
+samekh
+bet
+he
+nun
+mem
+tsadi
+tav
+tsadi sofit
+
+Shift
+
+Control
+Windows Start
+Alt
+Space
+Alt Gr
+Windows Start
+Show Greek keyboard
+Control
+
+
+
+
+
+
