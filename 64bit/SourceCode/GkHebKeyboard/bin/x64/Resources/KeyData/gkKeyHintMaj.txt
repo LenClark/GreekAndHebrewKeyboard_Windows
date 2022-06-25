@@ -1,0 +1,70 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Backspace
+Tab
+
+ 
+epsilon
+rho
+tau
+upsilon
+theta
+iota
+omicron
+pi
+
+
+ 
+Caps Lock
+alpha
+sigma
+delta
+phi
+gamma
+eta
+xi
+kappa
+lambda
+
+
+
+Return/Enter
+Shift
+zeta
+chi
+psi
+omega
+beta
+nu
+mu
+comma
+full stop
+
+
+Shift
+ 
+Control
+Windows Start
+Alt
+Space
+Alt Gr
+Windows Start
+Show Hebrew keyboard
+Control
+
+
+
+
+
+
