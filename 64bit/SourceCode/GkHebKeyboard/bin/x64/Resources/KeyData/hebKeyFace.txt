@@ -1,0 +1,70 @@
+Esc
+ ֱ
+ ֳ
+ ֲ
+ ֶ
+ ּ
+ ֵ
+ ִ
+ ְ
+ ָ
+ ַ
+ ֻ
+ ֹ
+BkSp
+Clear
+\u05c1
+\u05c2
+ק
+ר
+א
+ט
+ו
+ן
+ם
+פ
+\u05be
+֫ 
+Del 
+Caps
+ש
+ד
+ג
+כ
+ע
+י
+ח
+ל
+ך
+ף
+׃
+
+Enter
+Shift
+
+ז
+ס
+ב
+ה
+נ
+מ
+צ
+ת
+ץ
+
+Shift
+
+Ctrl
+
+Alt
+Space
+Alt
+
+Gk
+Ctrl
+
+
+
+
+
+
